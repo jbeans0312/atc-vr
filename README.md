@@ -1,6 +1,6 @@
-University of Delaware VIP VR Team\n
+University of Delaware VIP VR Team
 Virtual Reality Air Traffic Control trainer
 
-Currently working on:\n
+Currently working on:
 Plane paths
 
